@@ -21,3 +21,11 @@ OS1: MacOS Monterey
 OS2: Manjaro KDE
 
 OS3: Fedora KDE
+
+
+
+<div align='center'>
+		
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2DC6XA)
+		
+</div>
