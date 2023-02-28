@@ -16,11 +16,9 @@ GPU2: Nvidia GTX 1060 6Gb
 NVME: XPG TUF Gaming S41
 
 
-OS1: MacOS Monterey
+OS1: MacOS Ventura 13.2.1
 
 OS2: Manjaro KDE
-
-OS3: Fedora KDE
 
 
 
